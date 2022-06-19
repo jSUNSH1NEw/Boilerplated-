@@ -11,8 +11,10 @@
 # 🧐 Repos philosophy
 
 > This repos will be used for practice and learn over multiple low and pro cons in web3 devlopment 
-> Virtualisation is our friends please is gitpod ! 
-> [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jSUNSH1NEw/Web3-course)
+> Virtualisation is our friends please use gitpod :) 
+<br />
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jSUNSH1NEw/Web3-course)
 
 # 📒 Wiki
 
@@ -23,11 +25,12 @@ This project repository has [a great wiki](https://doc.clickup.com/4775737/d/h/4
 Here's a brief high-level overview of the tech stack the World protocol uses:
 
 - Back-end
-  - Truffle 
-  - Hardhat
-  - OpenZeppelin
-  - Ganache
-  - Trader-Joe, WonderZapIn Script 
+  - Solitity
+  - Metamask / Ronin
+  - Truffle  / Hardhat
+  - OpenZeppelin 
+  - ERC / EIP
+  - TraderJoe
 
 - Blockhains dev arch
   - Ethereum
@@ -58,9 +61,12 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - Node.js
   - Express
 
-- Testing
+- Testing 
+  - Ganache
   - Mocha
+  - Chai
   - Enzyme
+  - Foundry
 
 - Deployment
  - Netlify
