@@ -24,13 +24,22 @@ This project repository has [a great wiki](https://doc.clickup.com/4775737/d/h/4
 
 Here's a brief high-level overview of the tech stack the World protocol uses:
 
+
+- Virtual environement
+  - WSL 2 (if using windows)
+  - Docker Compose
+  - Remote tools
+  - GitPod, GoogleCollab
+
+
 - Back-end
   - Solitity
   - Metamask / Ronin
   - Truffle  / Hardhat
+  - Alchemy
   - OpenZeppelin 
   - ERC / EIP
-  - TraderJoe
+  - TraderJoe, SushiSwaps (external scripts)
 
 - Blockhains dev arch
   - Ethereum
@@ -40,22 +49,16 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - Bitcoin  
 
 - Client
-  - React 
-  - NEXT
-  - Mui, Material-UI , Emotion
-  - styled-components
-  - Snackbar, notifications
-  - React-Router 
-  - Moralis.Web3
+  - ReactJS
+    - Snackbar
+    - React-Router 
+  - NextJS
+  - Material-UI, Emotion
+  - Styled-components
   - Redux
   - Web3
   - Ethers.js
-
-- Virtual environement
-  - WSL 2 (if using windows)
-  - Docker Compose
-  - Remote tools
-  - GitPod, GoogleCollab
+  - Moralis.Web3
 
 - Api
   - Node.js
