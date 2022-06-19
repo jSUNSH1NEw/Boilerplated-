@@ -35,7 +35,7 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
 - Back-end
   - Solitity
   - Metamask / Ronin
-  - Truffle  / Hardhat
+  - Hardhat
   - Alchemy
   - OpenZeppelin 
   - ERC / EIP
@@ -66,10 +66,9 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
 
 - Testing 
   - Ganache
-  - Mocha
   - Chai
   - HRE
-  - Enzyme
+  - JEST
   - Foundry
 
 - Deployment
