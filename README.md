@@ -68,6 +68,7 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - Ganache
   - Mocha
   - Chai
+  - HRE
   - Enzyme
   - Foundry
 
