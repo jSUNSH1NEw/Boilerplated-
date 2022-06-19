@@ -52,7 +52,8 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - ReactJS
     - Snackbar
     - React-Router 
-  - NextJS
+    - Redux
+    - NextJS
   - Material-UI, Emotion
   - Styled-components
   - Redux
@@ -61,7 +62,7 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - Moralis.Web3
 
 - Api
-  - Node.js
+  - Socket
   - Express
 
 - Testing 
@@ -70,11 +71,12 @@ Here's a brief high-level overview of the tech stack the World protocol uses:
   - HRE
   - JEST
   - Foundry
+  - GitHooks / Husky
 
 - Deployment
- - Netlify
- - Vercel
- - Cloud broadcast 
+  - Netlify
+  - Vercel
+  - Cloud broadcast 
 
 
 # ✍️ Contributing
